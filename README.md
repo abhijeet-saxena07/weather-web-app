@@ -12,3 +12,6 @@ Weather Web App is a sleek and responsive application built using HTML, CSS, and
 🎨 Clean UI: Designed using modern CSS for a polished and user-friendly interface.
 
 ⚙️ Built with Vanilla JS: No frameworks—just clean, efficient JavaScript.
+
+Snapshots:
+![Alt Text](https://github.com/abhijeet-saxena07/weather-web-app/blob/8d41ceb9db16d94d6856453b393b2f32b88ebe27/w1.jpg)
